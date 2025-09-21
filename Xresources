@@ -1,0 +1,68 @@
+Xft.dpi:	192
+
+Xcursor.theme:	Qogirr-Dark
+Xcursor.size:	44
+
+#define base00 #050505
+#define base01 #282c34
+#define base02 #3e4451
+#define base03 #545862
+#define base04 #565c64
+#define base05 #abb2bf
+#define base06 #b6bdca
+#define base07 #ffffff
+#define base08 #e06c75
+#define base09 #d19a66
+#define base0A #e5c07b
+#define base0B #98c379
+#define base0C #56b6c2
+#define base0D #61afef
+#define base0E #c678dd
+#define base0F #000090
+
+*foreground:			base05
+*background:			base00
+
+*color0:				base00	
+*color1:				base08
+*color2:				base0B
+*color3:				base0A
+*color4:				base0D
+*color5:				base0E
+*color6:				base0C
+*color7:				base05
+
+*color8:				base03
+*color9:				base09
+*color10:				base0B
+*color11:				base0A
+*color12:				base0D
+*color13:				base0E
+*color14:				base0C
+*color15:				base07
+
+dwm.normfgcolor:		base05
+dwm.normbgcolor:		base00
+dwm.normbordercolor:	base03
+
+dwm.selfgcolor:			base07
+dwm.selbgcolor:			base0F
+dwm.selbordercolor:		base0D
+
+dwm.tagemtpyfgcolor:	base0F
+dwm.tagemptybgcolor:	base00
+
+dwm.tagoccfgcolor:		base0D
+dwm.tagoccbgcolor:		base00
+
+dwm.tagselfgcolor:		base07
+dwm.tagselbgcolor:		base00
+
+dwm.ltsymfgcolor:		base0A
+dwm.ltsymbgcolor:		base00
+
+dwm.titlenormfgcolor:	base05
+dwm.titlenormbgcolor:	base00
+
+dwm.titleselfgcolor:	base07
+dwm.titleselbgcolor:	base00
